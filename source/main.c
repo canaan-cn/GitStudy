@@ -1,4 +1,10 @@
 // source/main.c
+
+ /* Author: tusen
+  * email：jnl@outlook.kr
+  * Country：China
+  */
+
 #include "ProcessCopy.h"
 
 int main(int argc, char **argv) {

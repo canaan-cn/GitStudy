@@ -1,4 +1,9 @@
 // source/BlockCur.c
+
+ /* Author: tusen
+  * email：jnl@outlook.kr
+  * Country：China
+  */
 #include "ProcessCopy.h"
 
 BlockInfo calculate_blocks(const char *filename, int pronum) {

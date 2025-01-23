@@ -1,4 +1,9 @@
 // source/PramCheck.c
+
+ /* Author: tusen
+  * email：jnl@outlook.kr
+  * Country：China
+  */
 #include "ProcessCopy.h"
 
 void check_arguments(int argc, char **argv) {

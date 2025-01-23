@@ -1,4 +1,9 @@
 // source/ProcessCreate.c
+
+ /* Author: tusen
+  * email：jnl@outlook.kr
+  * Country：China
+  */
 #include "ProcessCopy.h"
 
 void create_processes(int pronum, const char *src, const char *dest, BlockInfo *blocks) {

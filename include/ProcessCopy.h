@@ -1,4 +1,9 @@
 // include/ProcessCopy.h
+
+/* Author: tusen
+ * email：jnl@outlook.kr
+ * Country：China
+ */
 #ifndef PROCESS_COPY_H
 #define PROCESS_COPY_H
 

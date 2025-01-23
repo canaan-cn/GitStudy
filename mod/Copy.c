@@ -1,4 +1,9 @@
 // mod/Copy.c
+
+/* Author: tusen
+  * email：jnl@outlook.kr
+  * Country：China
+  */
 #include "ProcessCopy.h"
 
 void copy_block(const char *src, const char *dest, off_t offset, size_t block_size) {
